@@ -1,15 +1,11 @@
 {
-"name":"Ascccx Icon", 
+"name":"Ascccx", 
 "description":"Collected By Ascccx", 
 "icons":
-[
-	{"name":"Proxy", "url":"https://tc.680998.xyz/file/da4c22b7567119d2033d4.png"},
-	{"name":"SSPanel", "url":"https://tc.680998.xyz/file/fe55ebb9f0fa3301398c0.png"},
-	{"name":"NextPanel", "url":"https://tc.680998.xyz/file/d4de79b0b2e7e827436a8.png"},
-	{"name":"Teletram", "url":"https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/telegram.png"},
-	{"name":"OpenAi", "url":"https://tc.680998.xyz/file/041549f02f5032a357921.png"},
-	{"name":"Youtube", "url":"https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/youtube.png"},
-	{"name":"Select", "url":"https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/select.png"},
-	{"name":"Fallback", "url":"https://raw.githubusercontent.com/shindgewongxj/WHATSINStash/main/icon/fallback.png"},
+[       
+	{"name":"NeXT Panel", "url":"https://tc.680998.xyz/i/2024/11/03/672681a785560.png"},
+	{"name":"Teletram", "url":"https://tc.680998.xyz/i/2024/11/03/672681a8b21b7.png"},
+	{"name":"OpenAi", "url":"https://tc.680998.xyz/i/2024/11/03/672681a7dfdcf.png"},
+	{"name":"Youtube", "url":"https://tc.680998.xyz/i/2024/11/03/672684ea5e7c4.png"}
 ]
 }
